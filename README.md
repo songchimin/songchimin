@@ -105,7 +105,7 @@
 <div class="cover-container d-flex w-100 h-100 p-3 mx-auto flex-column">
   <header class="masthead mb-auto">
     <div class="inner">
-      <h3 class="masthead-brand" style="color: white; margin: 0; vertical-align: middle;" align="left"> Try It. Admin Page</h3>
+<!--      <h3 class="masthead-brand" style="color: white; margin: 0; vertical-align: middle;" align="left"> Try It. Admin Page</h3> -->
 <!--       <img alt="" src="img/logo.png" width="65px" style="margin-bottom: 10px;"> -->
       <nav class="nav nav-masthead justify-content-center">
 
