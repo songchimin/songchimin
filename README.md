@@ -125,7 +125,7 @@
 			        <li class="menu"  style="vertical-align: middle;">
 <!--		             <a href="#" class="btn btn-lg btn-secondary" style="color: #FFFFFF; width: 110px;" id="aa">Log In</a> -->
 						<a href="#" id="aa">
-							<img alt="" src="img/logo.png" width="100px">
+							<img alt="" src="try_it.png" width="100px">
 						</a>
 			            
 			            
