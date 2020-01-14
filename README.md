@@ -124,15 +124,15 @@
       				<ul style="list-style: none; padding: 0; vertical-align: middle;">
 			        <li class="menu"  style="vertical-align: middle;">
 						<a href="#" id="aa">
-							<img alt="" src="try_it.png" width="100px">
+							<img alt="" src="green_check.png" width="100px">
 						</a>
 			      	
 			            <ul class="hide" style="padding: 0;">
-			            
+				    
+			            Hello
+<!--				    
 	<form class="form-signin" action="loginOk">
-<!--       <img class="mb-4" src="../img/security_key.png" alt="" width="72" height="72"> -->
       <h1 class="h3 mb-3 font-weight-normal" style="color: white; font-weight: bold;">관리자 로그인</h1>
-<!--       Please sign in -->
       <label for="inputEmail" class="sr-only">ID</label>
       <input type="text" id="id" name="id" class="form-control" placeholder="ID" required="" autofocus="">
       <label for="inputPassword" class="sr-only">Password</label>
@@ -146,6 +146,7 @@
 
 		<br>
     </form>
+    -->
     
 			            </ul>
 			        </li>
