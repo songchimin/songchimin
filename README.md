@@ -123,12 +123,10 @@
     </p>			
       				<ul style="list-style: none; padding: 0; vertical-align: middle;">
 			        <li class="menu"  style="vertical-align: middle;">
-<!--		             <a href="#" class="btn btn-lg btn-secondary" style="color: #FFFFFF; width: 110px;" id="aa">Log In</a> -->
 						<a href="#" id="aa">
 							<img alt="" src="try_it.png" width="100px">
 						</a>
-			            
-			            
+			      	
 			            <ul class="hide" style="padding: 0;">
 			            
 	<form class="form-signin" action="loginOk">
@@ -143,12 +141,10 @@
         <label style="color: white;">
           <input type="checkbox" value="remember-me"> Remember me
         </label>
-<!--         <button class="btn" type="button" onclick="javascript:window.location='join.jsp'">회원가입</button> -->
       </div>
       <button class="btn btn-lg btn-danger btn-block" type="submit" >Sign in</button>
 
 		<br>
-<!-- 		<p class="mt-5 mb-3 text-muted" style="color:#ffffff; font-size: 20px;">© 2019 Try it</p> -->
     </form>
     
 			            </ul>
@@ -159,8 +155,7 @@
 
   <footer class="mastfoot mt-auto">
     <div class="inner">
-<!--       <p>Cover template for <a href="https://getbootstrap.com/">Bootstrap</a>, by <a href="https://twitter.com/mdo">@mdo</a>.</p> -->
- <!--      <p style="color: white;">© 2019 Try it</p>-->
+
     </div>
   </footer>
 </div>
