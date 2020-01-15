@@ -11,7 +11,7 @@ tags:
   - jstl
 ---
 
-## JSTL Format.
+## JSTL Format을 이용한 날짜 계산.
 
 ### Source
 

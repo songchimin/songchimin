@@ -8,6 +8,7 @@ tags:
   - jsp
   - css
   - javascript
+  - function
 ---
 
 ## Javascript dispaly 속성을 이용한 접었다 펴는 버튼.
