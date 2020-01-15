@@ -11,13 +11,9 @@ tags:
   - markup
 ---
 
-# JSTL Format 사용
+## JSTL Format 사용
 
 ### Source
-
-## Buttons
-
-Make any link standout more when applying the `.btn` class.
 
 Step1. 선언
 ```html
