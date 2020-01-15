@@ -1,7 +1,7 @@
 ---
 layout: home
 ---
-# 개발 기록
+# 개발 기록 블로그
 
 This theme is Jekyll port of [vangeltzo.com](http://vangeltzo.com/) (by [Vangelis Tzortzis](https://github.com/srekoble)).
 
