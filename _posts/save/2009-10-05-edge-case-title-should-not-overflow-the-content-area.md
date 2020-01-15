@@ -1,4 +1,4 @@
----
+<!-- ---
 layout: post
 title: "Antidisestablishmentarianism"
 categories:
@@ -25,4 +25,4 @@ The following CSS properties will help you support non-breaking text.
 ```css
 -ms-word-wrap: break-word;
 word-wrap: break-word;
-```
+``` -->

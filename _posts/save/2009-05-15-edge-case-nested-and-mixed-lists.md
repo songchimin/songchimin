@@ -1,4 +1,4 @@
----
+<!-- ---
 layout: post
 title: "Edge Case: Nested and Mixed Lists"
 categories:
@@ -58,4 +58,4 @@ Nested and mixed lists are an interesting beast. It's a corner case to make sure
     1. **ordered item**
     2. **ordered item**
 * unordered item
-* unordered item
+* unordered item -->

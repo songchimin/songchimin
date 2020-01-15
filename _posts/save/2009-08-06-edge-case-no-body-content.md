@@ -1,4 +1,4 @@
----
+<!-- ---
 layout: post
 title: "Edge Case: No Body Content"
 categories:
@@ -7,4 +7,4 @@ tags:
   - content
   - edge case
   - layout
----
+--- -->
