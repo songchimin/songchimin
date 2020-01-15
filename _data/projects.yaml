@@ -3,9 +3,14 @@
   image: http://taylantatli.me/Halve/images/halve-home-image.png
   completed: false
 
-- title: Try_It(트라잇)
+- title: Try_It_App(트라잇)
   url: http://taylantatli.me/Moon
   image: images/try_it.PNG
+  completed: true
+
+- title: Try_It_Web(트라잇)
+  url: http://taylantatli.me/Moon
+  image: images/try_it2.PNG
   completed: true
 
 - title: Kakao Friend
@@ -13,17 +18,12 @@
   image: images/kakao.png
   completed: true
 
-- title: Daisy Pelican Theme
-  url: http://taylantatli.me/Daisy-Pelican-Theme/
-  image: https://raw.githubusercontent.com/TaylanTatli/Daisy-Pelican-Theme/master/Preview-1.png
-  completed: true
-
-- title: Block Icon Theme
-  url: https://github.com/TaylanTatli/Block-Icon-Theme
-  image: https://raw.githubusercontent.com/TaylanTatli/Block-Icon-Theme/master/Preview.png
+- title: Smart_house
+  url: http://taylantatli.me/StartPage/
+  image: images/smart_house.png
   completed: false
 
-- title: Start Page
+- title: console_chat
   url: http://taylantatli.me/StartPage/
-  image: https://raw.githubusercontent.com/TaylanTatli/StartPage/master/preview.png
+  image: images/console_chat.png
   completed: false
