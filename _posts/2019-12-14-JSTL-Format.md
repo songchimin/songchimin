@@ -4,11 +4,10 @@ title: "JSTL Format 사용"
 categories:
   - Markup
 tags:
-  - content
   - css
-  - formatting
   - html
-  - markup
+  - format
+  - jstl
 ---
 
 ## JSTL Format 사용
@@ -20,7 +19,7 @@ Step1. 선언
   <%@ taglib prefix = "fmt" uri = "http://java.sun.com/jsp/jstl/fmt" %>
 ```
 
-Step2. '<fmt:parseDate>'를 이용하여 String >> Date 형 변환
+Step2. `<fmt:parseDate>`를 이용하여 String >> Date 형 변환
 ```html
   <fmt:parseDate>를 이용하여 String >> Date 형 변환
 ```
@@ -32,6 +31,7 @@ Step2. '<fmt:parseDate>'를 이용하여 String >> Date 형 변환
 startDate = 2017-07-27 endDate = 2017-07-30 <fmt:parseDate var="startDate_D" value="${startDate }" pattern="yyyy-MM-dd"/> <fmt:parseDate var="endDate_D" value="${endDate }" pattern="yyyy-MM-dd"/>
 
 startTime = 0215 endTime = 0100 <fmt:parseDate var="startTime_D" value="${startTime }" pattern="HHmm"/> <fmt:parseDate var="endTime_D" value="${endTime }" pattern="HHmm"/>
+
 
 Step3. <fmt:parseNumber>를 이용하여 Date >> Number 변환
 
