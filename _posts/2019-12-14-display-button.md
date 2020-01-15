@@ -15,7 +15,7 @@ tags:
 ### Source
 
 Step1. Style
-```html
+```css
 <style>
   .menu a{cursor:pointer;}
   .menu .hide{display:none;}
