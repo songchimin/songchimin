@@ -29,9 +29,19 @@ Step2. `<fmt:parseDate>`를 이용하여 String >> Date 형 변환
 
 <fmt:parseDate>태그를 이용하여 문자열로 이루어진 여러가지 포맷의 데이터를 DATE형으로 변환 시킬 수 있습니다.
 
-startDate = 2017-07-27 endDate = 2017-07-30 <fmt:parseDate var="startDate_D" value="${startDate }" pattern="yyyy-MM-dd"/> <fmt:parseDate var="endDate_D" value="${endDate }" pattern="yyyy-MM-dd"/>
 
-startTime = 0215 endTime = 0100 <fmt:parseDate var="startTime_D" value="${startTime }" pattern="HHmm"/> <fmt:parseDate var="endTime_D" value="${endTime }" pattern="HHmm"/>
+Ex)
+
+startDate = 2019-07-27
+endDate = 2019-07-30
+<fmt:parseDate var="startDate_D" value="${startDate }" pattern="yyyy-MM-dd"/>
+<fmt:parseDate var="endDate_D" value="${endDate }" pattern="yyyy-MM-dd"/>
+
+
+startTime = 0215
+endTime = 0100
+<fmt:parseDate var="startTime_D" value="${startTime }" pattern="HHmm"/>
+<fmt:parseDate var="endTime_D" value="${endTime }" pattern="HHmm"/>
 
 ```
 
