@@ -10,7 +10,6 @@ tags:
 
 ## Visual Studio Code 단축키.
 
----
 ```html
 
 기본 편집
@@ -213,14 +212,5 @@ ctrl+k ctrl+i	호버 표시	editor.debug.action.showDebugHover
 ctrl+shift+b	빌드 작업 실행	workbench.action.tasks.build
 할당되지 않음	테스트 작업 실행	workbench.action.tasks.test
 
-
-확장 프로그램
-키	명령	명령 ID
-할당되지 않음	확장 프로그램 설치	workbench.extensions.action.installExtension
-할당되지 않음	설치된 확장 프로그램 표시	workbench.extensions.action.showInstalledExtensions
-할당되지 않음	오래된 확장명 표시	workbench.extensions.action.listOutdatedExtensions
-할당되지 않음	추천 확장 프로그램보기	workbench.extensions.action.showRecommendedExtensions
-할당되지 않음	인기 확장 프로그램 표시	workbench.extensions.action.showPopularExtensions
-할당되지 않음	모든 확장 기능 업데이트	workbenc
 
 ```
