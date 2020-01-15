@@ -19,20 +19,15 @@ tags:
 
 Make any link standout more when applying the `.btn` class.
 
-Step1.
+Step1. 선언
 ```html
   <%@ taglib prefix = "fmt" uri = "http://java.sun.com/jsp/jstl/fmt" %>
 ```
 
-Step2. <fmt:parseDate>를 이용하여 String >> Date 형 변환
+Step2. '<fmt:parseDate>'를 이용하여 String >> Date 형 변환
 ```html
-  <%@ taglib prefix = "fmt" uri = "http://java.sun.com/jsp/jstl/fmt" %>
   <fmt:parseDate>를 이용하여 String >> Date 형 변환
 ```
-
-
-
-
 
 계산할 데이터 형태가 가공되지 않은 문자열 형태일 경우 많으므로 계산을 위해 DATE형으로 변환 시켜 줍니다.
 
