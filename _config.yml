@@ -29,7 +29,7 @@ sass:
 #google-analytics: UA-XXXXX-Y
 
 # Social Links
-#email:             email
+email:             email
 #google.plus:        username
 #twitter:            username
 #facebook:           username
@@ -44,7 +44,7 @@ github:             songchimin
 #foursquare:        username
 #steam:              username
 #dribbble:          username
-#youtube:           username
+youtube:           username
 #soundcloud:        username
 #weibo:             username
 #flickr:            username
