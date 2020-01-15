@@ -21,9 +21,9 @@
 - title: Smart_house
   url: http://taylantatli.me/StartPage/
   image: images/smart_house.png
-  completed: false
+  completed: true
 
 - title: console_chat
   url: http://taylantatli.me/StartPage/
   image: images/console_chat.png
-  completed: false
+  completed: true
