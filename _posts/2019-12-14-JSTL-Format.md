@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Markup: HTML Tags and Formatting"
+title: "JSTL Format 사용"
 categories:
   - Markup
 tags:
@@ -16,6 +16,10 @@ tags:
 ### Source
 
 ## Buttons
+
+Make any link standout more when applying the `.btn` class.
+
+```html
   <%@ taglib prefix = "fmt" uri = "http://java.sun.com/jsp/jstl/fmt" %>
 ```
 
