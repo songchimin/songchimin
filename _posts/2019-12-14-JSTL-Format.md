@@ -1,16 +1,17 @@
 ---
 layout: post
-title: "JSTL Format 사용"
+title: "JSTL Format"
 categories:
   - Markup
 tags:
-  - css
+#  - css
   - html
+  - jsp
   - format
   - jstl
 ---
 
-## JSTL Format 사용
+## JSTL Format.
 
 ### Source
 
