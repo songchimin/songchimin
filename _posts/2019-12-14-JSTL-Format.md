@@ -6,7 +6,6 @@ categories:
 tags:
 #  - css
   - html
-  - jsp
   - format
   - jstl
 ---

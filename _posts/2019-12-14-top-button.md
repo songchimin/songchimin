@@ -5,7 +5,6 @@ categories:
   - Markup
 tags:
   - html
-  - jsp
   - javascript
   - css
   - function
