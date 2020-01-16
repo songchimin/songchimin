@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Java란?"
+title: "SrpingBoot"
 categories:
   - Markup
 tags:
