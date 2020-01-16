@@ -55,5 +55,5 @@ JSP,서블릿처리,HTTP요청 수신 및 응답
 
 4. 아파치 톰캣 정리
 
-<a href="{{ site.url }}/images/apache_tomecatab.png"><img src="{{ site.url }}/images/apache_tomecatab.png" alt="hashmap"></a>  
+<a href="{{ site.url }}/images/apache_tomecat_ab.png"><img src="{{ site.url }}/images/apache_tomecat_ab.png" alt="hashmap"></a>  
 <center><b>[ 장단점 ]</b></center><br>
