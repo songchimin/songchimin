@@ -28,7 +28,7 @@
   image: images/console_chat.png
   completed: true
 
-- title: awards
-  url: http://taylantatli.me/StartPage/
-  image: images/awards/kongju.png
-  completed: true
+# - title: awards
+#   url: http://taylantatli.me/StartPage/
+#   image: images/awards/kongju.png
+#   completed: true
