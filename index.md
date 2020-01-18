@@ -9,12 +9,12 @@ STUDY <br>
 
 <style>
     #a {
-        width:80px;
+        width:70px;
         height:90px;
         float: left;
     }
     #f {
-        width:105px;
+        width:95px;
         height:90px;
         float: left;
     }
