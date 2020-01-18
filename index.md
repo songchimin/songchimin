@@ -11,10 +11,12 @@ STUDY <br>
     #a {
         width:150px;
         height:150px;
+        float: left;
     }
     #b, #c, #d, #e {
         width:100px;
         height:150px;
+        float: left;
     }
 </style>
 
