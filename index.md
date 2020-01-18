@@ -14,7 +14,7 @@ STUDY <br>
         float: left;
     }
     #f {
-        width:95px;
+        width:90px;
         height:90px;
         float: left;
     }
