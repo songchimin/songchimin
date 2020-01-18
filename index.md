@@ -9,13 +9,18 @@ STUDY <br>
 
 <style>
     #a {
-        width:150px;
-        height:150px;
+        width:120px;
+        height:120px;
+        float: left;
+    }
+    #f {
+        width:180px;
+        height:120px;
         float: left;
     }
     #b, #c, #d, #e {
-        width:100px;
-        height:150px;
+        width:80px;
+        height:120px;
         float: left;
     }
 </style>
@@ -28,7 +33,8 @@ STUDY <br>
 </div>
 
 <br>
-<a href="{{ site.url }}/images/awards/dataprocessing.png"><img id="a" src="{{ site.url }}/images/awards/dataprocessing.png" alt="dataprocessing"></a>  
+<a href="{{ site.url }}/images/awards/dataprocessing.png"><img id="a" src="{{ site.url }}/images/awards/dataprocessing.png" alt="dataprocessing"></a> 
+<a href="{{ site.url }}/images/awards/com.png"><img id="f" src="{{ site.url }}/images/awards/com.png" alt="com"></a> 
 
 
 <!-- <center><b>[ 은상 ]</b></center><br> -->
