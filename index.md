@@ -9,18 +9,18 @@ STUDY <br>
 
 <style>
     #a {
-        width:120px;
-        height:120px;
+        width:90px;
+        height:90px;
         float: left;
     }
     #f {
-        width:180px;
-        height:120px;
+        width:140px;
+        height:90px;
         float: left;
     }
     #b, #c, #d, #e {
-        width:80px;
-        height:120px;
+        width:60px;
+        height:90px;
         float: left;
     }
 </style>
