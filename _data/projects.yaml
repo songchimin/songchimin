@@ -4,7 +4,8 @@
   completed: false
 
 - title: Try_It_App(트라잇)
-  url: http://taylantatli.me/Moon
+  #url: http://taylantatli.me/Moon
+  url: https://github.com/songchimin/Song_Coding/tree/master/Try%20It
   image: images/try_it.PNG
   completed: true
 
