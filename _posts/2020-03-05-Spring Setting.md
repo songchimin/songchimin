@@ -7,9 +7,10 @@ tags:
   - Setting
 ---
 
-## SpringBoot 설정.
+## SpringBoot 설정
 
-Application.properties
+### Application.properties
+
 ```Java
 server.port=8081
 
@@ -33,6 +34,7 @@ mybatis.mapper-locations=classpath:mybatis/mapper/**/**.xml
 
 
 ### build.gradle - dependencies
+
 ```Java
 dependencies {
 	implementation 'org.springframework.boot:spring-boot-starter-jdbc'
