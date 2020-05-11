@@ -8,10 +8,9 @@ tags:
 ---
 
 ## SpringBoot 설정.
-```Java
 
 Application.properties
-
+```Java
 server.port=8081
 
 spring.mvc.view.prefix=/WEB-INF/views/
@@ -34,7 +33,7 @@ mybatis.mapper-locations=classpath:mybatis/mapper/**/**.xml
 
 
 ### build.gradle - dependencies
-
+```Java
 dependencies {
 	implementation 'org.springframework.boot:spring-boot-starter-jdbc'
 	implementation 'org.springframework.boot:spring-boot-starter-web'
@@ -50,4 +49,4 @@ dependencies {
   	implementation 'org.bgee.log4jdbc-log4j2:log4jdbc-log4j2-jdbc4:1.16'
   	implementation 'com.google.firebase:firebase-admin:6.7.0'
 }
-
+```
