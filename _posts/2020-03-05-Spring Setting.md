@@ -8,6 +8,7 @@ tags:
 ---
 
 ## SpringBoot 설정.
+```Java
 
 Application.properties
 
@@ -17,7 +18,7 @@ spring.mvc.view.prefix=/WEB-INF/views/
 spring.mvc.view.suffix=.jsp
 spring.resources.static-locations=file:///D:/finalProject/file/Image
 
-# oracle set
+### oracle set
 spring.datasource.driver-class-name=oracle.jdbc.OracleDriver
 #spring.datasource.url=jdbc:oracle:thin:@ ip :1521/xe
 spring.datasource.url=jdbc:oracle:thin:@localhost:1521/	xe
@@ -27,9 +28,12 @@ spring.datasource.password=tiger
 #mybatis
 mybatis.mapper-locations=classpath:mybatis/mapper/**/**.xml
 
+```
 
 
-# build.gradle - dependencies
+
+
+### build.gradle - dependencies
 
 dependencies {
 	implementation 'org.springframework.boot:spring-boot-starter-jdbc'
