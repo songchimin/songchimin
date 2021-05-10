@@ -17,5 +17,5 @@ jQuery UI는 요소에 클래스 이름을 적용하여 사용할 수있는 여�
 ex) 
   <span class="ui-icon ui-icon-arrowthick-1-n"></span>
 
-<a href="{{ site.url }}/images/jQuery-Icons.png"><img src="{{ site.url }}/images/jQuery-Icons.png" alt="hashmap"></a>  
+<a href="{{ site.url }}/images/jQuery-Icons.PNG"><img src="{{ site.url }}/images/jQuery-Icons.PNG" alt="hashmap"></a>  
 <center><b>[ jQuery-Icon 예시 ]</b></center><br>
