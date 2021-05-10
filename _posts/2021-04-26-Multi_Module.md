@@ -10,7 +10,7 @@ tags:
   - Gradle
 ---
 
-# Intellij에서 Spring Boot Multi-Moudle(Gradle) 만들기
+## Intellij에서 Spring Boot Multi-Moudle(Gradle) 만들기
 
 ### Root 프로젝트 생성
 <a href="{{ site.url }}/images/multi_module1.png"><img src="{{ site.url }}/images/multi_module1.png" alt="hashmap"></a>  
