@@ -152,4 +152,4 @@ test {
 ## Application 작성
 모듈별로 서버를 구동해야 하므로 모듈별로 root에 패키지를 생성하고
 Spring Boot Application 작성
-<a href="{{ site.url }}/images/multi_module4.png"><img src="{{ site.url }}/images/multi_module4.png" alt="hashmap"></a>  
+<a href="{{ site.url }}/images/multi_module4.PNG"><img src="{{ site.url }}/images/multi_module4.PNG" alt="hashmap"></a>  
